@@ -1,4 +1,4 @@
-# 02 - Prerequisites
+# 03 - Prerequisites
 
 We assume that you are familiar with:
 
