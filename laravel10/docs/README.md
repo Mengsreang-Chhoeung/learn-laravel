@@ -20,6 +20,7 @@
 8. [Frontend](./08-frontend.md)
 9. [Visual Studio Code Extensions](./09-vsc-extensions.md)
 10. [Basic Routing](./10-basic-routing.md)
+11. [Redirect Routes](./11-redirect-routes.md)
 
 ### 📜 References
 
