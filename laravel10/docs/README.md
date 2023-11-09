@@ -18,6 +18,7 @@
 6. [Installation](./06-installation.md)
 7. [Directory Structure](./07-directory-structure.md)
 8. [Frontend](./08-frontend.md)
+9. [Visual Studio Code Extensions](./09-vsc-extensions.md)
 
 ### 📜 References
 
