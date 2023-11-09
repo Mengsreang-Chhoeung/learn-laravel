@@ -2,6 +2,8 @@
 
 Before creating your first Laravel project, you should ensure that your local machine has **PHP** and **Composer** installed. In addition, we recommend installing **Node** and **NPM**.
 
+For IDE, we recommend **Visual Studio Code**.
+
 After you have installed **PHP** and **Composer**, you may create a new Laravel project via the Composer `create-project` command:
 
 ```shell
