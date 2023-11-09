@@ -22,6 +22,7 @@
 10. [Basic Routing](./10-basic-routing.md)
 11. [Redirect Routes](./11-redirect-routes.md)
 12. [View Routes](./12-view-routes.md)
+13. [The Route List](./13-the-route-list.md)
 
 ### 📜 References
 
