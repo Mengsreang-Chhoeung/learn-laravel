@@ -23,6 +23,7 @@
 11. [Redirect Routes](./11-redirect-routes.md)
 12. [View Routes](./12-view-routes.md)
 13. [The Route List](./13-the-route-list.md)
+14. [Required Route Parameters](./14-required-route-parameters.md)
 
 ### 📜 References
 
