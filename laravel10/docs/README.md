@@ -24,6 +24,7 @@
 12. [View Routes](./12-view-routes.md)
 13. [The Route List](./13-the-route-list.md)
 14. [Required Route Parameters](./14-required-route-parameters.md)
+15. [Optional Route Parameters](./15-optional-route-parameters.md)
 
 ### 📜 References
 
