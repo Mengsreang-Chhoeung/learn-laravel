@@ -26,6 +26,7 @@
 14. [Required Route Parameters](./14-required-route-parameters.md)
 15. [Optional Route Parameters](./15-optional-route-parameters.md)
 16. [Regular Expression Constraints](./16-regular-expression-constraints.md)
+17. [Named Routes](./17-named-routes.md)
 
 ### 📜 References
 
