@@ -28,6 +28,7 @@
 16. [Regular Expression Constraints](./16-regular-expression-constraints.md)
 17. [Named Routes](./17-named-routes.md)
 18. [Route Groups](./18-route-groups.md)
+19. [Route Model Binding](./19-route-model-binding.md)
 
 ### 📜 References
 
