@@ -29,6 +29,7 @@
 17. [Named Routes](./17-named-routes.md)
 18. [Route Groups](./18-route-groups.md)
 19. [Route Model Binding](./19-route-model-binding.md)
+20. [Fallback Routes](./20-fallback-routes.md)
 
 ### 📜 References
 
