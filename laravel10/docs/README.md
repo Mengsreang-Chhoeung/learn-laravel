@@ -31,6 +31,7 @@
 19. [Route Model Binding](./19-route-model-binding.md)
 20. [Fallback Routes](./20-fallback-routes.md)
 21. [Rate Limiting](./21-rate-limiting.md)
+22. [Form Method Spoofing](./22-form-method-spoofing.md)
 
 ### 📜 References
 
