@@ -33,6 +33,7 @@
 21. [Rate Limiting](./21-rate-limiting.md)
 22. [Form Method Spoofing](./22-form-method-spoofing.md)
 23. [Accessing the Current Route](./23-accessing-the-current-route.md)
+24. [Cross-Origin Resource Sharing (CORS)](./24-cors.md)
 
 ### 📜 References
 
