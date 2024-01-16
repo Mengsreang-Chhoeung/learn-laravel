@@ -35,6 +35,7 @@
 23. [Accessing the Current Route](./23-accessing-the-current-route.md)
 24. [Cross-Origin Resource Sharing (CORS)](./24-cors.md)
 25. [Route Caching](./25-route-caching.md)
+26. [Introduction to Middleware](./26-introduction-to-middleware.md)
 
 ### 📜 References
 
