@@ -37,6 +37,7 @@
 25. [Route Caching](./25-route-caching.md)
 26. [Introduction to Middleware](./26-introduction-to-middleware.md)
 27. [Defining Middleware](./27-defining-middleware.md)
+28. [Registering Middleware](./28-registering-middleware.md)
 
 ### 📜 References
 
