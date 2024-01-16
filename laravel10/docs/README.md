@@ -36,6 +36,7 @@
 24. [Cross-Origin Resource Sharing (CORS)](./24-cors.md)
 25. [Route Caching](./25-route-caching.md)
 26. [Introduction to Middleware](./26-introduction-to-middleware.md)
+27. [Defining Middleware](./27-defining-middleware.md)
 
 ### 📜 References
 
