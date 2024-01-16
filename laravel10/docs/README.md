@@ -40,6 +40,7 @@
 28. [Registering Middleware](./28-registering-middleware.md)
 29. [Middleware Parameters](./29-middleware-parameters.md)
 30. [Terminable Middleware](./30-terminable-middleware.md)
+31. [CSRF Protection](./31-csrf-protection.md)
 
 ### 📜 References
 
