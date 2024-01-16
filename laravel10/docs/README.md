@@ -39,6 +39,7 @@
 27. [Defining Middleware](./27-defining-middleware.md)
 28. [Registering Middleware](./28-registering-middleware.md)
 29. [Middleware Parameters](./29-middleware-parameters.md)
+30. [Terminable Middleware](./30-terminable-middleware.md)
 
 ### 📜 References
 
