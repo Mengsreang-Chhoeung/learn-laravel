@@ -43,6 +43,7 @@
 31. [CSRF Protection](./31-csrf-protection.md)
 32. [Introduction to Controller](./32-introduction-to-controller.md)
 33. [Writing Controllers](./33-writing-controllers.md)
+34. [Controller Middleware](./34-controller-middleware.md)
 
 ### 📜 References
 
