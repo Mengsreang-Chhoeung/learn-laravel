@@ -41,6 +41,7 @@
 29. [Middleware Parameters](./29-middleware-parameters.md)
 30. [Terminable Middleware](./30-terminable-middleware.md)
 31. [CSRF Protection](./31-csrf-protection.md)
+32. [Introduction to Controller](./32-introduction-to-controller.md)
 
 ### 📜 References
 
