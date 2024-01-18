@@ -45,6 +45,7 @@
 33. [Writing Controllers](./33-writing-controllers.md)
 34. [Controller Middleware](./34-controller-middleware.md)
 35. [Resource Controllers](./35-resource-controllers.md)
+36. [Dependency Injection and Controllers](./36-dependency-injection-and-controllers.md)
 
 ### 📜 References
 
