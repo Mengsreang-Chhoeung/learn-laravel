@@ -46,6 +46,7 @@
 34. [Controller Middleware](./34-controller-middleware.md)
 35. [Resource Controllers](./35-resource-controllers.md)
 36. [Dependency Injection and Controllers](./36-dependency-injection-and-controllers.md)
+37. [Interacting With The Request](./37-interacting-with-the-request.md)
 
 ### 📜 References
 
