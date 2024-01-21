@@ -47,6 +47,7 @@
 35. [Resource Controllers](./35-resource-controllers.md)
 36. [Dependency Injection and Controllers](./36-dependency-injection-and-controllers.md)
 37. [Interacting With The Request](./37-interacting-with-the-request.md)
+38. [Request With The Input](./38-request-with-the-input.md)
 
 ### 📜 References
 
