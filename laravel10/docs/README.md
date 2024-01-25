@@ -51,6 +51,7 @@
 39. [Request With The Files](./39-request-with-the-files.md)
 40. [Configuring Trusted Proxies](./40-configuring-trusted-proxies.md)
 41. [Configuring Trusted Hosts](./41-configuring-trusted-hosts.md)
+42. [Creating Responses](./42-creating-responses.md)
 
 ### 📜 References
 
