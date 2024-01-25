@@ -52,6 +52,7 @@
 40. [Configuring Trusted Proxies](./40-configuring-trusted-proxies.md)
 41. [Configuring Trusted Hosts](./41-configuring-trusted-hosts.md)
 42. [Creating Responses](./42-creating-responses.md)
+43. [Response Redirects](./43-response-redirects.md)
 
 ### 📜 References
 
