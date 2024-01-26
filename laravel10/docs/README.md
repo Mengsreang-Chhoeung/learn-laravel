@@ -55,6 +55,7 @@
 43. [Response Redirects](./43-response-redirects.md)
 44. [Other Response Types](./44-other-response-types.md)
 45. [Response Macros](./45-response-macros.md)
+46. [Introduction To View](./46-introduction-to-view.md)
 
 ### 📜 References
 
