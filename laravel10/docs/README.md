@@ -53,6 +53,7 @@
 41. [Configuring Trusted Hosts](./41-configuring-trusted-hosts.md)
 42. [Creating Responses](./42-creating-responses.md)
 43. [Response Redirects](./43-response-redirects.md)
+44. [Other Response Types](./44-other-response-types.md)
 
 ### 📜 References
 
