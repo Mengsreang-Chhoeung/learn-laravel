@@ -54,6 +54,7 @@
 42. [Creating Responses](./42-creating-responses.md)
 43. [Response Redirects](./43-response-redirects.md)
 44. [Other Response Types](./44-other-response-types.md)
+45. [Response Macros](./45-response-macros.md)
 
 ### 📜 References
 
