@@ -59,6 +59,7 @@
 47. [Creating and Rendering Views](./47-creating-and-rendering-views.md)
 48. [Passing Data to Views](./48-passing-data-to-views.md)
 49. [View Composers](./49-view-composers.md)
+50. [Optimizing Views](./50-optimizing-views.md)
 
 ### 📜 References
 
