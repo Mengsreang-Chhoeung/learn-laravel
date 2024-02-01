@@ -57,6 +57,7 @@
 45. [Response Macros](./45-response-macros.md)
 46. [Introduction To View](./46-introduction-to-view.md)
 47. [Creating and Rendering Views](./47-creating-and-rendering-views.md)
+48. [Passing Data to Views](./48-passing-data-to-views.md)
 
 ### 📜 References
 
