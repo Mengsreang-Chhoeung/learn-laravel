@@ -60,6 +60,7 @@
 48. [Passing Data to Views](./48-passing-data-to-views.md)
 49. [View Composers](./49-view-composers.md)
 50. [Optimizing Views](./50-optimizing-views.md)
+51. [Introduction To Blade Template](./51-introduction-to-blade-template.md)
 
 ### 📜 References
 
