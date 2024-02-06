@@ -62,6 +62,7 @@
 50. [Optimizing Views](./50-optimizing-views.md)
 51. [Introduction To Blade Template](./51-introduction-to-blade-template.md)
 52. [Blade Displaying Data](./52-blade-displaying-data.md)
+53. [Blade Directives](./53-blade-directives.md)
 
 ### 📜 References
 
