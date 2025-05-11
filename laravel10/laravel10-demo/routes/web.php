@@ -16,3 +16,27 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/hello', function () {
+    return "Hello via GET";
+});
+
+Route::post('/hello', function () {
+    return "Hello via POST";
+});
+
+Route::put('/hello', function () {
+    return "Hello via PUT";
+});
+
+Route::patch('/hello', function () {
+    return "Hello via PATCH";
+});
+
+Route::delete('/hello', function () {
+    return "Hello via DELETE";
+});
+
+Route::options('/hello', function () {
+    return "Hello via OPTIONS";
+});
