@@ -40,3 +40,15 @@ Route::delete('/hello', function () {
 Route::options('/hello', function () {
     return "Hello via OPTIONS";
 });
+
+Route::match(['get', 'post'], '/hello', function () {
+    return "Hello via GET or POST";
+});
+
+Route::match(['get', 'post'], '/hi', function () {
+    return "Hi via GET or POST";
+});
+
+Route::any('/haha', function () {
+    return "Haha to all the HTTP methods.";
+});
