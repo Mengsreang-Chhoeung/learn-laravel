@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -39,6 +40,13 @@ Route::delete('/hello', function () {
 
 Route::options('/hello', function () {
     return "Hello via OPTIONS";
+});
+
+Route::get('/sum', function (Request $request) {
+    $a = (int) $request->query('a', 0);
+    $b = (int) $request->query('b', 0);
+
+    return "Sum of a and b: " . ($a + $b);
 });
 
 Route::match(['get', 'post'], '/hello', function () {
