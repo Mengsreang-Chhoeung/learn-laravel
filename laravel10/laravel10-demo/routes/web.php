@@ -49,6 +49,14 @@ Route::get('/sum', function (Request $request) {
     return "Sum of a and b: " . ($a + $b);
 });
 
+Route::get('/say-greeting', function () {
+    return view('say-greeting');
+});
+
+Route::post('/say-greeting', function (Request $request) {
+    return "Received message: " . $request->input('message');
+});
+
 Route::match(['get', 'post'], '/hello', function () {
     return "Hello via GET or POST";
 });
